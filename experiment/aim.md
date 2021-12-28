@@ -1,1 +1,1 @@
-### Aim of the experiment
+To understand the concept of simultaneous output interlock of motors using PLC.
